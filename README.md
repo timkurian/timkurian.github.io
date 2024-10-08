@@ -1,7 +1,7 @@
 # timkurian.github.io
 timkurian.github.io
 
-
+<html>
 <!-- CQ Counter code start -->
 <script type="text/javascript" language="javascript"><!--
 _d=document; _n=navigator; _t=new Date(); function t() { _d.write(
@@ -19,3 +19,4 @@ t(); //--></script></a><noscript><img width="70" height="15" border="0"
 alt="Counter" src="http://uk.2.cqcounter.com/cgi-bin/c?_id=timkuria&_z=0"><br>
 <a title="Web Counter" href="http://cqcounter.com/">Hit Counter</a></noscript>
 <!-- CQ Counter code end -->
+</html>
